@@ -35,7 +35,7 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
 
 ### Detection
 
-[Detection-demo](https://github.com/eli64s/artifacts/assets/43382407/55b8d1b9-06a7-4b1f-b6a7-aaeccdb27679)
+[Lane Guard System-demo](https://github.com/eli64s/artifacts/assets/43382407/55b8d1b9-06a7-4b1f-b6a7-aaeccdb27679)
 
 ### Streamlit
 
