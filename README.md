@@ -3,9 +3,9 @@
   <h1>Lane Guard AI-Powered Lane-Switching Violation Detection System</h1>
 </div>
 
-> <details><summary>Documentation</summary>
+> <details><summary>Presentation</summary>
 >
-> - [Read the official readme-ai docs *(🚧 WIP)*](https://eli64s.github.io/readme-ai)
+> - [View Presentation](https://eli64s.github.io/readme-ai)
 >
 > </details>
 >
