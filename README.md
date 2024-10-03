@@ -74,7 +74,7 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
     <td><strong>Datasets Source</strong></td>
     <td align="center">
       <a href="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" target="_blank">
-        <img src="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" alt="Datasets Logo" width="150">
+        <img src="https://avatars.githubusercontent.com/u/53104118?s=280&v=4" alt="RoboFlowLogo" width="150">
       </a>
       <a href="https://www.youtube.com" target="_blank">
         <img src="https://iconape.com/wp-content/png_logo_vector/youtube-minimal-icon.png" alt="YouTube Logo" width="90">
@@ -85,7 +85,7 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
     <td><strong>Models</strong></td>
     <td align="center">
       <a href="https://docs.ultralytics.com/" target="_blank">
-        <img src="https://gsma.my.site.com/mwcoem/servlet/servlet.FileDownload?file=00P6900003Sh4YOEAZ" width="150" alt="Model Logo">
+        <img src="https://gsma.my.site.com/mwcoem/servlet/servlet.FileDownload?file=00P6900003Sh4YOEAZ" width="150" alt="Ultralytics Logo">
       </a>
     </td>
   </tr>
