@@ -69,17 +69,16 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
       </a>
     </td>
   </tr>
-  <tr>
-    <td><strong>Datasets Source</strong></td>
-    <td align="center">
-      <a href="https://roboflow.com" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/53104118?s=280&v=4" alt="RoboFlowLogo" width="90">
-      </a>
-      <a href="https://www.youtube.com" target="_blank">
-        <img src="https://iconape.com/wp-content/png_logo_vector/youtube-minimal-icon.png" alt="YouTube Logo" width="90">
-      </a>
-    </td>
-  </tr>
+<tr>
+  <td><strong>Datasets Source</strong></td>
+  <td align="center">
+    <a href="https://roboflow.com" target="_blank" style="display: inline-block;">
+      <img src="https://avatars.githubusercontent.com/u/53104118?s=280&v=4" alt="RoboFlowLogo" width="90">
+    </a><a href="https://www.youtube.com" target="_blank" style="display: inline-block;">
+      <img src="https://iconape.com/wp-content/png_logo_vector/youtube-minimal-icon.png" alt="YouTube Logo" width="90">
+    </a>
+  </td>
+</tr>
   <tr>
     <td><strong>Models</strong></td>
     <td align="center">
