@@ -64,26 +64,38 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
   </tr>
   <tr>
     <td><strong>Programming Language</strong></td>
-    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white" target="_blank"><img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" width="99"></a></td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" width="99" alt="Python Logo">
+      </a>
+    </td>
   </tr>
-    <tr>
+  <tr>
     <td><strong>Datasets Source</strong></td>
     <td align="center">
-        <a href="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" target="_blank">
-            <img src="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" alt="Datasets Logo" width="150">
-        </a>
-        <a href="https://www.youtube.com" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="90">
-        </a>
+      <a href="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" target="_blank">
+        <img src="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" alt="Datasets Logo" width="150">
+      </a>
+      <a href="https://www.youtube.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="90">
+      </a>
     </td>
-</tr>
+  </tr>
   <tr>
     <td><strong>Models</strong></td>
-    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" target="_blank"><img src="https://www.4yfn.com/cdn-cgi/image/f=auto,w=auto,h=192/https://gsma.my.site.com/mwcoem/servlet/servlet.FileDownload?file=00P6900003Sh4YOEAZ" width=150></a></td>
+    <td align="center">
+      <a href="https://www.4yfn.com/" target="_blank">
+        <img src="https://gsma.my.site.com/mwcoem/servlet/servlet.FileDownload?file=00P6900003Sh4YOEAZ" width="150" alt="Model Logo">
+      </a>
+    </td>
   </tr>
   <tr>
     <td><strong>Deployment</strong></td>
-    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="100"></a></td>
+    <td align="center">
+      <a href="https://streamlit.io/" target="_blank">
+        <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="100" alt="Streamlit Logo">
+      </a>
+    </td>
   </tr>
 </table>
 
