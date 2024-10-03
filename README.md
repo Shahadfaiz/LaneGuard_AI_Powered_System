@@ -66,7 +66,7 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
     <td><strong>Programming Language</strong></td>
     <td align="center">
       <a href="https://www.python.org/" target="_blank">
-        <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" width="99" alt="Python Logo">
+        <img src="https://www.svgrepo.com/show/376344/python.svg" width="99" alt="Python Logo">
       </a>
     </td>
   </tr>
@@ -77,7 +77,7 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
         <img src="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" alt="Datasets Logo" width="150">
       </a>
       <a href="https://www.youtube.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="90">
+        <img src="https://iconape.com/wp-content/png_logo_vector/youtube-minimal-icon.png" alt="YouTube Logo" width="90">
       </a>
     </td>
   </tr>
