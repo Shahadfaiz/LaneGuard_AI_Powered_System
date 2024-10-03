@@ -80,6 +80,6 @@ Streamlines documentation creation and maintenance, enhancing developer producti
   </tr>
   <tr>
     <td><strong>Deployment</strong></td>
-    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"></a></td>
+    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="100"></a></td>
   </tr>
 </table>
