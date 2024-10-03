@@ -38,7 +38,9 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
 
 ### Streamlit
 
-[Streamlit-demo](https://github.com/eli64s/artifacts/assets/43382407/3eb39fcf-c1df-49c6-bb5c-63e141857ae3)
+[Streamlit-demo](https://github.com/user-attachments/assets/100ed95a-6a80-4beb-b060-d7a0101ab305)
+
+
 
 ## ➕ Features
 
