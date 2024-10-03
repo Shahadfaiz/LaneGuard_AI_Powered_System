@@ -17,7 +17,7 @@
 > - [🚀 Getting Started](#-getting-started)
 >   - [🤖 Impact](#-usage)
 >   - [🧪 Testing](#-testing)
-> - [⚙️ Tools Used](#-tools used)
+> - [⚙️ Tools Used](#-tools-used)
 > - [🎨 Examples](#-examples)
 > - [🤝 Contributing](#-contributing)
 >
