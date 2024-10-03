@@ -70,7 +70,7 @@ Streamlines documentation creation and maintenance, enhancing developer producti
             <img src="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" alt="Datasets Logo" width="150">
         </a>
         <a href="https://www.youtube.com" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="50">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="90">
         </a>
     </td>
 </tr>
