@@ -5,7 +5,7 @@
 
 > <details><summary>Presentation</summary>
 >
-> - [View Presentation](https://eli64s.github.io/readme-ai)
+> - [View Presentation](https://github.com/Shahadfaiz/LaneGuard_AI_Powered_System/blob/main/Lane_Guard_presentation.pdf)
 >
 > </details>
 >
