@@ -5,7 +5,7 @@
 
 > <details><summary>Presentation</summary>
 >
-> - [View Presentation](https://github.com/Shahadfaiz/LaneGuard_AI_Powered_System/blob/main/Lane_Guard_presentation.pdf)
+> - [View Presentation](https://drive.google.com/file/d/1QBXBmEUJfXIb1FVscolJrN0iH4n6S3Xj/view?usp=sharing)
 >
 > </details>
 >
