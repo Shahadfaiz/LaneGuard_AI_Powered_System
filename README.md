@@ -34,13 +34,17 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
 
 ### Lane Guard Demo
 
-[Lane-Guard-System-demo](https://github.com/Shahadfaiz/LaneGuard_AI_Powered_System/assets/4f7bd6f0-b627-444e-8c4e-1d096cfd22f0/Lane_Guard_Demo.mp4)
+[Lane-Guard-System-demo](https://github.com/user-attachments/assets/522d8f8f-8b8a-4371-9afc-89b90cd63375)
 
 ### Streamlit
 
 [Streamlit-demo](https://github.com/eli64s/artifacts/assets/43382407/3eb39fcf-c1df-49c6-bb5c-63e141857ae3)
 
 ## ➕ Features
+
+
+
+
 
 - Real-time vehicle tracking.
 - Instant vioation alerts.
