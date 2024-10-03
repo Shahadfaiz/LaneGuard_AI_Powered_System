@@ -76,7 +76,7 @@ Streamlines documentation creation and maintenance, enhancing developer producti
 </tr>
   <tr>
     <td><strong>Models</strong></td>
-    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" target="_blank"><img src="https://www.4yfn.com/cdn-cgi/image/f=auto,w=auto,h=192/https://gsma.my.site.com/mwcoem/servlet/servlet.FileDownload?file=00P6900003Sh4YOEAZ" width=99></a></td>
+    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" target="_blank"><img src="https://www.4yfn.com/cdn-cgi/image/f=auto,w=auto,h=192/https://gsma.my.site.com/mwcoem/servlet/servlet.FileDownload?file=00P6900003Sh4YOEAZ" width=150></a></td>
   </tr>
   <tr>
     <td><strong>Deployment</strong></td>
