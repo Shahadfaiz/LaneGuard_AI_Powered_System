@@ -14,11 +14,8 @@
 > - [📍 Overview](#-overview)
 > - [👾 Demo](#-demo)
 > - [🧬 Features](#-features)
-> - [🚀 Getting Started](#-getting-started)
->   - [🤖 Impact](#-usage)
->   - [🧪 Testing](#-testing)
+>  - [🤖 Impact](#-usage)
 > - [⚙️ Tools Used](#-tools-used)
-> - [🎨 Examples](#-examples)
 > - [🤝 Contributing](#-contributing)
 >
 > </details>
@@ -52,6 +49,11 @@ Streamlines documentation creation and maintenance, enhancing developer producti
 - **Multi-LLM Support**: Compatible with `OpenAI`, `Ollama`, `Google Gemini` and `Offline Mode`.
   - **Offline Mode**: Generate a boilerplate README without calling an external API.
 
+### Impact
+
+
+
+
 
 ### Tools Used
 
@@ -84,3 +86,4 @@ Streamlines documentation creation and maintenance, enhancing developer producti
     <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="100"></a></td>
   </tr>
 </table>
+
