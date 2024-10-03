@@ -24,7 +24,7 @@
 
 ***Objective***
 
-This project aims to detect and track vehicles using a computer vision system with highway camera feeds and a pretrained YOLOv8 model, identifying lane-switching violations during severe congestion. By allowing lane changes only during light traffic, the system helps authorities manage lane behavior and reduce congestion.
+This project aims to detect and track vehicles using a computer vision system with highway camera feeds and a fine-tuned YOLOv8 model, identifying lane-switching violations during severe congestion. By allowing lane changes only during light traffic, the system helps authorities manage lane behavior and reduce congestion.
 
 ***Motivation***
 
