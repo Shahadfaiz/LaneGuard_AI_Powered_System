@@ -25,21 +25,21 @@
 
 ***Objective***
 
-Readme-ai is a developer tool that auto-generates README.md files using a combination of data extraction and generative ai. Simply provide a repository URL or local path to your codebase and a well-structured and detailed README file will be generated for you.
+This project aims to detect and track vehicles using a computer vision system with highway camera feeds and a pretrained YOLOv8 model, identifying lane-switching violations during severe congestion. By allowing lane changes only during light traffic, the system helps authorities manage lane behavior and reduce congestion.
 
 ***Motivation***
 
-Streamlines documentation creation and maintenance, enhancing developer productivity. This project aims to enable all skill levels, across all domains, to better understand, use, and contribute to open-source software.<br>
+Frequent lane changes during peak hours exacerbate traffic congestion and cause delays. This project seeks to mitigate these effects by providing a system that helps regulate lane-switching behavior, improving traffic flow and reducing highway congestion.<br>
 
 ## 👾 Demo
 
-### CLI
+### Detection
 
-[readmeai-cli-demo](https://github.com/eli64s/artifacts/assets/43382407/55b8d1b9-06a7-4b1f-b6a7-aaeccdb27679)
+[Detection-demo](https://github.com/eli64s/artifacts/assets/43382407/55b8d1b9-06a7-4b1f-b6a7-aaeccdb27679)
 
 ### Streamlit
 
-[readmeai-streamlit-demo](https://github.com/eli64s/artifacts/assets/43382407/3eb39fcf-c1df-49c6-bb5c-63e141857ae3)
+[Streamlit-demo](https://github.com/eli64s/artifacts/assets/43382407/3eb39fcf-c1df-49c6-bb5c-63e141857ae3)
 
 ## 🧬 Features
 
