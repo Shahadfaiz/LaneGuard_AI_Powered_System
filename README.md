@@ -32,3 +32,18 @@ Readme-ai is a developer tool that auto-generates README.md files using a combin
 ***Motivation***
 
 Streamlines documentation creation and maintenance, enhancing developer productivity. This project aims to enable all skill levels, across all domains, to better understand, use, and contribute to open-source software.<br>
+
+## 👾 Demo
+
+### CLI
+
+[readmeai-cli-demo](https://github.com/eli64s/artifacts/assets/43382407/55b8d1b9-06a7-4b1f-b6a7-aaeccdb27679)
+
+### Streamlit
+
+[readmeai-streamlit-demo](https://github.com/eli64s/artifacts/assets/43382407/3eb39fcf-c1df-49c6-bb5c-63e141857ae3)
+
+> [!TIP]
+>
+> <sub>Check out this [YouTube tutorial](https://www.youtube.com/watch?v=NiUrm1ni7bE) created by a community member!</sub>
+>
