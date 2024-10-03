@@ -16,7 +16,7 @@
 > - [➕ Features](#-features)
 > - [🚨 Impact](#-usage)
 > - [⚙️ Tools Used](#-tools-used)
->
+> - [📩 Contact Us](#-contact-uus)
 > </details>
 
 
@@ -102,4 +102,9 @@ Lane Guard aims to significantly reduce traffic congestion by:
   </tr>
 </table>
 
+## 📩 Contact Us
+<p>
+  For any questions or feedback, please contact us at: 
+  <a href="mailto:inquiries.laneguard@outlook.com">inquiries.laneguard@outlook.com</a>
+</p>
 
