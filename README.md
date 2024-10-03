@@ -16,7 +16,6 @@
 > - [➕ Features](#-features)
 > - [🚨 Impact](#-usage)
 > - [⚙️ Tools Used](#-tools-used)
-> - [👩‍💻 Contributing](#-contributing)
 >
 > </details>
 
@@ -99,4 +98,4 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
   </tr>
 </table>
 
-## 👩‍💻 Contributing
+
