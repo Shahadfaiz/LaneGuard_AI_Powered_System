@@ -15,7 +15,7 @@
 > - [👾 Demo](#-demo)
 > - [🧬 Features](#-features)
 > - [🚀 Getting Started](#-getting-started)
->   - [🤖 Usage](#-usage)
+>   - [🤖 Impact](#-usage)
 >   - [🧪 Testing](#-testing)
 > - [🎨 Examples](#-examples)
 > - [🤝 Contributing](#-contributing)
@@ -50,3 +50,29 @@ Streamlines documentation creation and maintenance, enhancing developer producti
 - **Language Agnostic**: Works across a wide range of programming languages and project types.
 - **Multi-LLM Support**: Compatible with `OpenAI`, `Ollama`, `Google Gemini` and `Offline Mode`.
   - **Offline Mode**: Generate a boilerplate README without calling an external API.
+
+
+### Tools Used
+
+<table>
+  <tr>
+    <th style="text-align: left;">Style</th>
+    <th style="text-align: center;">Preview</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Language</strong></td>
+    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"></a></td>
+  </tr>
+  <tr>
+    <td><strong>Datasets Source</strong></td>
+    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"></a></td>
+  </tr>
+  <tr>
+    <td><strong>Models</strong></td>
+    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></a></td>
+  </tr>
+  <tr>
+    <td><strong>Deployment</strong></td>
+    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"></a></td>
+  </tr>
+</table>
