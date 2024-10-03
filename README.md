@@ -61,7 +61,7 @@ Streamlines documentation creation and maintenance, enhancing developer producti
   </tr>
   <tr>
     <td><strong>Programming Language</strong></td>
-    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white" target="_blank"><img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" wisth=99></a></td>
+    <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white" target="_blank"><img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" wisth=25></a></td>
   </tr>
     <tr>
     <td><strong>Datasets Source</strong></td>
