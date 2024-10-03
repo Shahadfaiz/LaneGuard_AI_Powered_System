@@ -51,7 +51,7 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
 
 - Real-time vehicle tracking.
 - Instant vioation alerts.
-- Traffic flow analytics
+- Traffic flow analytics.
 
 ## 🚨 Impact
 Lane Guard aims to significantly reduce traffic congestion by:
