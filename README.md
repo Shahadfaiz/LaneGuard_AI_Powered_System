@@ -63,11 +63,17 @@ Streamlines documentation creation and maintenance, enhancing developer producti
     <td><strong>Programming Language</strong></td>
     <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"></a></td>
   </tr>
-  <tr>
-      <tr>
+    <tr>
     <td><strong>Datasets Source</strong></td>
-    <td align="center"><a href="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" target="_blank"><img src="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" alt="Datasets Logo" width="150"></a></td>
-  </tr>
+    <td align="center">
+        <a href="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" target="_blank">
+            <img src="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" alt="Datasets Logo" width="150">
+        </a>
+        <a href="https://www.youtube.com" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="100">
+        </a>
+    </td>
+</tr>
   <tr>
     <td><strong>Models</strong></td>
     <td align="center"><a href="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></a></td>
