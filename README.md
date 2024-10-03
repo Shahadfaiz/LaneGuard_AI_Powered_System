@@ -12,11 +12,11 @@
 > <details><summary>Quick Links</summary>
 >
 > - [📍 Overview](#-overview)
-> - [👾 Demo](#-demo)
-> - [🧬 Features](#-features)
->  - [🤖 Impact](#-usage)
+> - [🎥 Demo](#-demo)
+> - [➕ Features](#-features)
+> - [🚨 Impact](#-usage)
 > - [⚙️ Tools Used](#-tools-used)
-> - [🤝 Contributing](#-contributing)
+> - [👩‍💻 Contributing](#-contributing)
 >
 > </details>
 
@@ -31,7 +31,7 @@ This project aims to detect and track vehicles using a computer vision system wi
 
 Frequent lane changes during peak hours exacerbate traffic congestion and cause delays. This project seeks to mitigate these effects by providing a system that helps regulate lane-switching behavior, improving traffic flow and reducing highway congestion.<br>
 
-## 👾 Demo
+## 🎥 Demo
 
 ### Lane Guard Demo
 
@@ -41,7 +41,7 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
 
 [Streamlit-demo](https://github.com/eli64s/artifacts/assets/43382407/3eb39fcf-c1df-49c6-bb5c-63e141857ae3)
 
-## 🧬 Features
+## ➕ Features
 
 - **Flexible README Generation**: Robust repository context extraction engine combined with generative AI.
 - **Customizable Output**: Dozens of CLI options for styling/formatting, badges, header designs, and more.
@@ -49,13 +49,13 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
 - **Multi-LLM Support**: Compatible with `OpenAI`, `Ollama`, `Google Gemini` and `Offline Mode`.
   - **Offline Mode**: Generate a boilerplate README without calling an external API.
 
-### Impact
+## 🚨 Impact
 
 
 
 
 
-### Tools Used
+## ⚙️ Tools Used
 
 <table>
   <tr>
@@ -87,3 +87,4 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
   </tr>
 </table>
 
+## 👩‍💻 Contributing
