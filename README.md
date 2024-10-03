@@ -42,14 +42,15 @@ Frequent lane changes during peak hours exacerbate traffic congestion and cause 
 
 ## ➕ Features
 
-- **Flexible README Generation**: Robust repository context extraction engine combined with generative AI.
-- **Customizable Output**: Dozens of CLI options for styling/formatting, badges, header designs, and more.
-- **Language Agnostic**: Works across a wide range of programming languages and project types.
-- **Multi-LLM Support**: Compatible with `OpenAI`, `Ollama`, `Google Gemini` and `Offline Mode`.
-  - **Offline Mode**: Generate a boilerplate README without calling an external API.
+- Real-time vehicle tracking.
+- Instant vioation alerts.
+- Traffic flow analytics
 
 ## 🚨 Impact
-
+Lane Guard aims to significantly reduce traffic congestion by:
+- Minimizing unnecessary lane changes during peak hours.
+- Providing data-driven insights for traffic flow optimization.
+- Enhancing overall highway safety and effinciency.
 
 
 
