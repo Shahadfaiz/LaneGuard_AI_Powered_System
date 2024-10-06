@@ -10,8 +10,7 @@ import plotly.graph_objects as go
 import plotly.graph_objs as go
 import plotly.express as px
 import random
-#from PIL import Image
-from image_loader import render_image
+
 
 
 
@@ -56,13 +55,7 @@ def analysis_page():
     col1, col2, col3 = st.columns(3) # Create three columns
     
     with col2: # Use the middle column to display the image
-        render_image("logo_white_new.png")
-
-        #image = Image.open('logo_white_new.png')
-
-        #image_path = os.path.join(os.path.dirname(__file__), "images", "logo_white_new.png")
-        #st.image(image, width=300)
-        #st.image("logo_white_new.png", width=300)
+        st.image("https://raw.githubusercontent.com/Shahadfaiz/LaneGuard_AI_Powered_System/blob/main/Code/logo_white_new.png", width=300)
 
     st.title("LaneGuard: AI-Powered Lane-Switching Violation Detection System")
     st.markdown("""
