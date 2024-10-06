@@ -10,8 +10,7 @@ def render_image():
     # Define possible file paths
     possible_paths = [
         "logo_white_new.png",
-        "static/logo_white_new.png",
-        "/mount/src/laneguard_ai_powered_system/Code/logo_white_new.png",
+        "https://github.com/Shahadfaiz/LaneGuard_AI_Powered_System/blob/main/Code/logo_white_new.png",
         os.path.join(os.path.dirname(__file__), "logo_white_new.png"),
     ]
 
