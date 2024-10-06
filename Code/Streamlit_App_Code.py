@@ -28,10 +28,10 @@ roi3_line = [(1050, 1000), (1050, 250)]
 roi4_line = [(1415, 1000), (1140, 250)]
 
 def draw_lanes_and_roi(frame, roi_rect_top_left, roi_rect_bottom_right):
-    cv2.line(frame, roi1_line[0], roi1_line[1], color=(255, 0, 0), thickness=3)
-    cv2.line(frame, roi2_line[0], roi2_line[1], color=(0, 255, 0), thickness=3)
-    cv2.line(frame, roi3_line[0], roi3_line[1], color=(0, 0, 255), thickness=3)
-    cv2.line(frame, roi4_line[0], roi4_line[1], color=(255, 255, 0), thickness=3)
+    cv2.line(frame, roi1_line[0], roi1_line[1], color=(255, 255, 255), thickness=3)
+    cv2.line(frame, roi2_line[0], roi2_line[1], color=(255, 255, 255), thickness=3)
+    cv2.line(frame, roi3_line[0], roi3_line[1], color=(255, 255, 255), thickness=3)
+    cv2.line(frame, roi4_line[0], roi4_line[1], color=(255, 255, 255), thickness=3)
     cv2.rectangle(frame, roi_rect_top_left, roi_rect_bottom_right, (128, 128, 128), 3)
     return frame
 
