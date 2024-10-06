@@ -49,7 +49,7 @@ def get_lane(center_x, center_y):
 
 @st.cache_resource
 def load_model():
-    return YOLO('best.pt')
+    return YOLO('https://github.com/Shahadfaiz/LaneGuard_AI_Powered_System/blob/main/Code/best.pt')
 
 def analysis_page():
     col1, col2, col3 = st.columns(3) # Create three columns
