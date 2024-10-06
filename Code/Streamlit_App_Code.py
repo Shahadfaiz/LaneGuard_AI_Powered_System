@@ -10,6 +10,7 @@ import plotly.graph_objects as go
 import plotly.graph_objs as go
 import plotly.express as px
 import random
+import requests
 
 
 
@@ -49,7 +50,22 @@ def get_lane(center_x, center_y):
 
 @st.cache_resource
 def load_model():
-    return YOLO('https://raw.githubusercontent.com/Shahadfaiz/LaneGuard_AI_Powered_System/main/Code/best.pt')
+    url = 'https://raw.githubusercontent.com/Shahadfaiz/LaneGuard_AI_Powered_System/main/Code/best.pt'
+    response = requests.get(url)
+    if response.status_code == 200:
+        with tempfile.NamedTemporaryFile(delete=False, suffix='.pt') as tmp_file:
+            tmp_file.write(response.content)
+            tmp_file_path = tmp_file.name
+        
+        try:
+            model = YOLO(tmp_file_path)
+            os.unlink(tmp_file_path)  # Delete the temporary file
+            return model
+        except Exception as e:
+            os.unlink(tmp_file_path)  # Ensure the temp file is deleted even if loading fails
+            raise e
+    else:
+        raise Exception(f"Failed to download the model file. Status code: {response.status_code}")
 
 def analysis_page():
     col1, col2, col3 = st.columns(3) # Create three columns
