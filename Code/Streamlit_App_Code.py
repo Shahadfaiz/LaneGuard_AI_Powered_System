@@ -10,6 +10,7 @@ import plotly.graph_objects as go
 import plotly.graph_objs as go
 import plotly.express as px
 import random
+from PIL import Image
 
 
 # Set page config
@@ -53,12 +54,12 @@ def analysis_page():
     col1, col2, col3 = st.columns(3) # Create three columns
     
     with col2: # Use the middle column to display the image
-        base64_image = "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACklEQVR4nGMAAQAABQABDQottAAAAABJRU5ErkJggg=="
 
-        st.image(base64.b64decode(base64_image), width=300)
+
+        image = Image.open('sunrise.jpg')
 
         #image_path = os.path.join(os.path.dirname(__file__), "images", "logo_white_new.png")
-        #st.image(image_path, width=300)
+        st.image(image, width=300)
         #st.image("logo_white_new.png", width=300)
 
     st.title("LaneGuard: AI-Powered Lane-Switching Violation Detection System")
