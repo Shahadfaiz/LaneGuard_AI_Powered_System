@@ -1,1 +1,2 @@
+libgl1-mesa-glx
 libglib==2.0-0
