@@ -56,7 +56,7 @@ def analysis_page():
     with col2: # Use the middle column to display the image
 
 
-        image = Image.open('sunrise.jpg')
+        image = Image.open('logo_white_new.png')
 
         #image_path = os.path.join(os.path.dirname(__file__), "images", "logo_white_new.png")
         st.image(image, width=300)
