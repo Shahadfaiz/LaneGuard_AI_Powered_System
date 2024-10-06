@@ -49,13 +49,13 @@ def get_lane(center_x, center_y):
 
 @st.cache_resource
 def load_model():
-    return YOLO('https://raw.githubusercontent.com/Shahadfaiz/LaneGuard_AI_Powered_System/blob/main/Code/best.pt')
+    return YOLO('https://raw.githubusercontent.com/Shahadfaiz/LaneGuard_AI_Powered_System/main/Code/best.pt')
 
 def analysis_page():
     col1, col2, col3 = st.columns(3) # Create three columns
     
     with col2: # Use the middle column to display the image
-        st.image("https://raw.githubusercontent.com/Shahadfaiz/LaneGuard_AI_Powered_System/blob/main/Code/logo_white_new.png", width=300)
+        st.image("https://raw.githubusercontent.com/Shahadfaiz/LaneGuard_AI_Powered_System/main/Code/logo_white_new.png", width=300)
 
     st.title("LaneGuard: AI-Powered Lane-Switching Violation Detection System")
     st.markdown("""
