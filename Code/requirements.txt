@@ -1,5 +1,5 @@
 streamlit==1.29.0
-opencv-python-headless==4.10.0
+opencv-python-headless==4.10.0.84
 ultralytics==8.0.229
 pandas==2.1.4
 plotly==5.18.0
