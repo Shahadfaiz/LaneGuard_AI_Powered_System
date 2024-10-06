@@ -56,12 +56,12 @@ def analysis_page():
     col1, col2, col3 = st.columns(3) # Create three columns
     
     with col2: # Use the middle column to display the image
-        image =render_image("logo_white_new.png")
+        render_image("logo_white_new.png")
 
         #image = Image.open('logo_white_new.png')
 
         #image_path = os.path.join(os.path.dirname(__file__), "images", "logo_white_new.png")
-        st.image(image, width=300)
+        #st.image(image, width=300)
         #st.image("logo_white_new.png", width=300)
 
     st.title("LaneGuard: AI-Powered Lane-Switching Violation Detection System")
