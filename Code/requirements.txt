@@ -7,3 +7,4 @@ PyYAML==6.0.1
 numpy==1.26.2
 requests==2.31.0
 lapx
+opencv-python==4.8.1.78
